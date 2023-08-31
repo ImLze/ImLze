@@ -1,6 +1,6 @@
 ### Hi there, I am Lze.👋
-I am a student.<br>
-my country: China.<br>
+- I am a student.<br>
+- my country: China.<br>
 
 ### What I know
 ![](https://img.shields.io/badge/C-red) ![](https://img.shields.io/badge/Java-yellow) ![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue)
