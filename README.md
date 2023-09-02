@@ -2,8 +2,9 @@
 - I am a student.<br>
 - my country: China.<br>
 
-### What I know
-![](https://img.shields.io/badge/C-red) ![](https://img.shields.io/badge/Java-yellow) ![](https://img.shields.io/badge/JavaScript-yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue)
+### My skills:
+![](https://img.shields.io/badge/C-000000?logo=C&logoColor=FFCA28) ![](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28) ![](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue)
+
 
 ### about me
 
