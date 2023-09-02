@@ -13,6 +13,7 @@
 
 [![ImLze's Blog](https://img.shields.io/badge/Blog-Lze.ink-blue)](https://lze.ink)
 [![ImLze's CSDN](https://img.shields.io/badge/CSDN-ImLze-blue)](https://blog.csdn.net/ImLze)
+<!-- [![ImLze's Home](https://img.shields.io/badge/Home-we-blue)](#) -->
 <!-- [![ImLze's WeChat](https://img.shields.io/badge/WeChat-ImLze-blue)](https://mp.weixin.qq.com) -->
 
 ### statistical data
