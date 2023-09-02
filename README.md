@@ -3,8 +3,19 @@
 - my country: China.<br>
 
 ### My skills:
-![](https://img.shields.io/badge/C-000000?logo=C&logoColor=FFCA28) ![](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28) ![](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/C-000000?logo=C&logoColor=FFCA28) ![](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28) ![](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/html-yellow)
 
+<details>
+  <summary><b>Hope</b></summary>
+    <br/>
+- Learn more languages.<br>
+</details>
+
+<details>
+  <summary><b>Hopefully</b></summary>
+    <br/>
+Get a domain
+</details>
 
 ### about me
 
@@ -14,8 +25,7 @@
 
 ### statistical data
 
-[![ImLze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImLze&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ImLze)
-[![ImLze's CSDN stats](https://stats.justsong.cn/api/csdn?id=ImLze)](https://blog.csdn.net/ImLze)
+[![ImLze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImLze&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/ImLze) [![ImLze's CSDN stats](https://stats.justsong.cn/api/csdn?id=ImLze)](https://blog.csdn.net/ImLze)
 
 ### Open Source project
 
