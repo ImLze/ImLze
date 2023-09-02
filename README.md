@@ -9,12 +9,6 @@
 
 - Learn more languages.
 
-<!--<details>
-  <summary><b>Hope</b></summary>
-    <br/>
-<br>
-</details>-->
-
 ### about me
 
 [![ImLze's Blog](https://img.shields.io/badge/Blog-Lze.ink-blue)](https://lze.ink)
