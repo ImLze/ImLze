@@ -5,16 +5,12 @@
 ### My skills:
 ![](https://img.shields.io/badge/C-000000?logo=C&logoColor=FFCA28) ![](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28) ![](https://img.shields.io/badge/Java-000000?logo=Java&logoColor=yellow) ![](https://img.shields.io/badge/Vue.js-green) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/PHP-blue) ![](https://img.shields.io/badge/html-yellow)
 
+### I think
+
 <details>
   <summary><b>Hope</b></summary>
     <br/>
 - Learn more languages.<br>
-</details>
-
-<details>
-  <summary><b>Hopefully</b></summary>
-    <br/>
-Get a domain
 </details>
 
 ### about me
