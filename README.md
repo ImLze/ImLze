@@ -7,11 +7,13 @@
 
 ### I think
 
-<details>
+- Learn more languages.
+
+<!--<details>
   <summary><b>Hope</b></summary>
     <br/>
-- Learn more languages.<br>
-</details>
+<br>
+</details>-->
 
 ### about me
 
